@@ -1,0 +1,76 @@
+{
+    "anims": [
+        {
+            "key": "alasanim",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "sprite_dragon",
+                    "frame": "alas_1"
+                },
+                {
+                    "key": "sprite_dragon",
+                    "frame": "alas_2"
+                },
+                {
+                    "key": "sprite_dragon",
+                    "frame": "alas_3"
+                },
+                {
+                    "key": "sprite_dragon",
+                    "frame": "alas_4"
+                },
+                {
+                    "key": "sprite_dragon",
+                    "frame": "alas_5"
+                },
+                {
+                    "key": "sprite_dragon",
+                    "frame": "alas_6"
+                },
+                {
+                    "key": "sprite_dragon",
+                    "frame": "alas_7"
+                },
+                {
+                    "key": "sprite_dragon",
+                    "frame": "alas_8"
+                },
+                {
+                    "key": "sprite_dragon",
+                    "frame": "alas_8"
+                },
+                {
+                    "key": "sprite_dragon",
+                    "frame": "alas_7"
+                },
+                {
+                    "key": "sprite_dragon",
+                    "frame": "alas_6"
+                },
+                {
+                    "key": "sprite_dragon",
+                    "frame": "alas_5"
+                },
+                {
+                    "key": "sprite_dragon",
+                    "frame": "alas_4"
+                },
+                {
+                    "key": "sprite_dragon",
+                    "frame": "alas_3"
+                },
+                {
+                    "key": "sprite_dragon",
+                    "frame": "alas_2"
+                },
+                {
+                    "key": "sprite_dragon",
+                    "frame": "alas_1"
+                }
+            ]
+        }
+    ]
+}

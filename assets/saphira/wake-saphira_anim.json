@@ -1,0 +1,88 @@
+{
+    "anims": [
+        {
+            "key": "wake-saphira",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "wake-saphira",
+                    "frame": "wake1"
+                },
+                {
+                    "key": "wake-saphira",
+                    "frame": "wake2"
+                },
+                {
+                    "key": "wake-saphira",
+                    "frame": "wake3"
+                },
+                {
+                    "key": "wake-saphira",
+                    "frame": "wake4"
+                },
+                {
+                    "key": "wake-saphira",
+                    "frame": "wake5"
+                },
+                {
+                    "key": "wake-saphira",
+                    "frame": "wake6"
+                },
+                {
+                    "key": "wake-saphira",
+                    "frame": "wake7"
+                },
+                {
+                    "key": "wake-saphira",
+                    "frame": "wake8"
+                },
+                {
+                    "key": "wake-saphira",
+                    "frame": "wake9"
+                },
+                {
+                    "key": "wake-saphira",
+                    "frame": "wake10"
+                },
+                {
+                    "key": "wake-saphira",
+                    "frame": "wake11"
+                },
+                {
+                    "key": "wake-saphira",
+                    "frame": "wake12"
+                },
+                {
+                    "key": "wake-saphira",
+                    "frame": "wake13"
+                },
+                {
+                    "key": "wake-saphira",
+                    "frame": "wake14"
+                },
+                {
+                    "key": "wake-saphira",
+                    "frame": "wake15"
+                },
+                {
+                    "key": "wake-saphira",
+                    "frame": "wake16"
+                },
+                {
+                    "key": "wake-saphira",
+                    "frame": "wake17"
+                },
+                {
+                    "key": "wake-saphira",
+                    "frame": "wake18"
+                },
+                {
+                    "key": "wake-saphira",
+                    "frame": "wake19"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "anims": [
+        {
+            "key": "idle-sb",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 11,
+            "frames": [
+                {
+                    "key": "idle-sb",
+                    "frame": "idle1"
+                },
+                {
+                    "key": "idle-sb",
+                    "frame": "idle2"
+                },
+                {
+                    "key": "idle-sb",
+                    "frame": "idle3"
+                },
+                {
+                    "key": "idle-sb",
+                    "frame": "idle4"
+                },
+                {
+                    "key": "idle-sb",
+                    "frame": "idle5"
+                },
+                {
+                    "key": "idle-sb",
+                    "frame": "idle6"
+                },
+                {
+                    "key": "idle-sb",
+                    "frame": "idle7"
+                },
+                {
+                    "key": "idle-sb",
+                    "frame": "idle8"
+                },
+                {
+                    "key": "idle-sb",
+                    "frame": "idle9"
+                },
+                {
+                    "key": "idle-sb",
+                    "frame": "idle10"
+                },
+                {
+                    "key": "idle-sb",
+                    "frame": "idle11"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "anims": [
+        {
+            "key": "slime2_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 60,
+            "frames": [
+                {
+                    "key": "slime_2",
+                    "frame": "slimeorange_00000"
+                },
+                {
+                    "key": "slime_2",
+                    "frame": "slimeorange_00001"
+                },
+                {
+                    "key": "slime_2",
+                    "frame": "slimeorange_00002"
+                },
+                {
+                    "key": "slime_2",
+                    "frame": "slimeorange_00003"
+                },
+                {
+                    "key": "slime_2",
+                    "frame": "slimeorange_00004"
+                },
+                {
+                    "key": "slime_2",
+                    "frame": "slimeorange_00005"
+                },
+                {
+                    "key": "slime_2",
+                    "frame": "slimeorange_00006"
+                },
+                {
+                    "key": "slime_2",
+                    "frame": "slimeorange_00007"
+                },
+                {
+                    "key": "slime_2",
+                    "frame": "slimeorange_00008"
+                },
+                {
+                    "key": "slime_2",
+                    "frame": "slimeorange_00009"
+                },
+                {
+                    "key": "slime_2",
+                    "frame": "slimeorange_00010"
+                },
+                {
+                    "key": "slime_2",
+                    "frame": "slimeorange_00011"
+                },
+                {
+                    "key": "slime_2",
+                    "frame": "slimeorange_00012"
+                },
+                {
+                    "key": "slime_2",
+                    "frame": "slimeorange_00013"
+                },
+                {
+                    "key": "slime_2",
+                    "frame": "slimeorange_00014"
+                },
+                {
+                    "key": "slime_2",
+                    "frame": "slimeorange_00015"
+                },
+                {
+                    "key": "slime_2",
+                    "frame": "slimeorange_00016"
+                },
+                {
+                    "key": "slime_2",
+                    "frame": "slimeorange_00017"
+                },
+                {
+                    "key": "slime_2",
+                    "frame": "slimeorange_00018"
+                },
+                {
+                    "key": "slime_2",
+                    "frame": "slimeorange_00019"
+                },
+                {
+                    "key": "slime_2",
+                    "frame": "slimeorange_00020"
+                },
+                {
+                    "key": "slime_2",
+                    "frame": "slimeorange_00021"
+                },
+                {
+                    "key": "slime_2",
+                    "frame": "slimeorange_00022"
+                },
+                {
+                    "key": "slime_2",
+                    "frame": "slimeorange_00023"
+                },
+                {
+                    "key": "slime_2",
+                    "frame": "slimeorange_00024"
+                },
+                {
+                    "key": "slime_2",
+                    "frame": "slimeorange_00025"
+                },
+                {
+                    "key": "slime_2",
+                    "frame": "slimeorange_00026"
+                },
+                {
+                    "key": "slime_2",
+                    "frame": "slimeorange_00027"
+                },
+                {
+                    "key": "slime_2",
+                    "frame": "slimeorange_00028"
+                },
+                {
+                    "key": "slime_2",
+                    "frame": "slimeorange_00029"
+                }
+            ]
+        }
+    ]
+}

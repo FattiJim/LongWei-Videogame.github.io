@@ -1,0 +1,112 @@
+{
+    "frames": [
+        {
+            "filename": "alas_1",
+            "frame": {
+                "w": 1280,
+                "h": 720,
+                "x": 1,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "alas_2",
+            "frame": {
+                "w": 1280,
+                "h": 720,
+                "x": 1283,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "alas_3",
+            "frame": {
+                "w": 1280,
+                "h": 720,
+                "x": 2565,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "alas_6",
+            "frame": {
+                "w": 1280,
+                "h": 720,
+                "x": 3847,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "alas_4",
+            "frame": {
+                "w": 1280,
+                "h": 720,
+                "x": 5129,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "alas_5",
+            "frame": {
+                "w": 1280,
+                "h": 720,
+                "x": 6411,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "alas_7",
+            "frame": {
+                "w": 1280,
+                "h": 720,
+                "x": 7693,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "alas_8",
+            "frame": {
+                "w": 1280,
+                "h": 720,
+                "x": 8975,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

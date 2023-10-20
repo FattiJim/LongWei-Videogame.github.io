@@ -1,0 +1,398 @@
+{
+    "frames": [
+        {
+            "filename": "slimeorange_00023",
+            "frame": {
+                "w": 94,
+                "h": 76,
+                "x": 1,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimeorange_00024",
+            "frame": {
+                "w": 94,
+                "h": 76,
+                "x": 97,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimeorange_00025",
+            "frame": {
+                "w": 94,
+                "h": 76,
+                "x": 193,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimeorange_00026",
+            "frame": {
+                "w": 94,
+                "h": 76,
+                "x": 289,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimeorange_00027",
+            "frame": {
+                "w": 94,
+                "h": 76,
+                "x": 385,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimeorange_00028",
+            "frame": {
+                "w": 94,
+                "h": 76,
+                "x": 1,
+                "y": 79
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimeorange_00029",
+            "frame": {
+                "w": 94,
+                "h": 76,
+                "x": 97,
+                "y": 79
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimeorange_00000",
+            "frame": {
+                "w": 94,
+                "h": 76,
+                "x": 193,
+                "y": 79
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimeorange_00001",
+            "frame": {
+                "w": 94,
+                "h": 76,
+                "x": 289,
+                "y": 79
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimeorange_00002",
+            "frame": {
+                "w": 94,
+                "h": 76,
+                "x": 385,
+                "y": 79
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimeorange_00003",
+            "frame": {
+                "w": 94,
+                "h": 76,
+                "x": 1,
+                "y": 157
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimeorange_00004",
+            "frame": {
+                "w": 94,
+                "h": 76,
+                "x": 97,
+                "y": 157
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimeorange_00005",
+            "frame": {
+                "w": 94,
+                "h": 76,
+                "x": 193,
+                "y": 157
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimeorange_00006",
+            "frame": {
+                "w": 94,
+                "h": 76,
+                "x": 289,
+                "y": 157
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimeorange_00007",
+            "frame": {
+                "w": 94,
+                "h": 76,
+                "x": 385,
+                "y": 157
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimeorange_00008",
+            "frame": {
+                "w": 94,
+                "h": 76,
+                "x": 1,
+                "y": 235
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimeorange_00009",
+            "frame": {
+                "w": 94,
+                "h": 76,
+                "x": 97,
+                "y": 235
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimeorange_00010",
+            "frame": {
+                "w": 94,
+                "h": 76,
+                "x": 193,
+                "y": 235
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimeorange_00011",
+            "frame": {
+                "w": 94,
+                "h": 76,
+                "x": 289,
+                "y": 235
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimeorange_00012",
+            "frame": {
+                "w": 94,
+                "h": 76,
+                "x": 385,
+                "y": 235
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimeorange_00013",
+            "frame": {
+                "w": 94,
+                "h": 76,
+                "x": 1,
+                "y": 313
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimeorange_00014",
+            "frame": {
+                "w": 94,
+                "h": 76,
+                "x": 97,
+                "y": 313
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimeorange_00015",
+            "frame": {
+                "w": 94,
+                "h": 76,
+                "x": 193,
+                "y": 313
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimeorange_00016",
+            "frame": {
+                "w": 94,
+                "h": 76,
+                "x": 289,
+                "y": 313
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimeorange_00017",
+            "frame": {
+                "w": 94,
+                "h": 76,
+                "x": 385,
+                "y": 313
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimeorange_00018",
+            "frame": {
+                "w": 94,
+                "h": 76,
+                "x": 1,
+                "y": 391
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimeorange_00019",
+            "frame": {
+                "w": 94,
+                "h": 76,
+                "x": 97,
+                "y": 391
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimeorange_00020",
+            "frame": {
+                "w": 94,
+                "h": 76,
+                "x": 193,
+                "y": 391
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimeorange_00021",
+            "frame": {
+                "w": 94,
+                "h": 76,
+                "x": 289,
+                "y": 391
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimeorange_00022",
+            "frame": {
+                "w": 94,
+                "h": 76,
+                "x": 385,
+                "y": 391
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

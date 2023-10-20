@@ -1,0 +1,398 @@
+{
+    "frames": [
+        {
+            "filename": "slimebasic_00000",
+            "frame": {
+                "w": 94,
+                "h": 64,
+                "x": 1,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimebasic_00001",
+            "frame": {
+                "w": 94,
+                "h": 64,
+                "x": 97,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimebasic_00002",
+            "frame": {
+                "w": 94,
+                "h": 64,
+                "x": 193,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimebasic_00003",
+            "frame": {
+                "w": 94,
+                "h": 64,
+                "x": 289,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimebasic_00004",
+            "frame": {
+                "w": 94,
+                "h": 64,
+                "x": 385,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimebasic_00005",
+            "frame": {
+                "w": 94,
+                "h": 64,
+                "x": 1,
+                "y": 67
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimebasic_00006",
+            "frame": {
+                "w": 94,
+                "h": 64,
+                "x": 97,
+                "y": 67
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimebasic_00007",
+            "frame": {
+                "w": 94,
+                "h": 64,
+                "x": 193,
+                "y": 67
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimebasic_00008",
+            "frame": {
+                "w": 94,
+                "h": 64,
+                "x": 289,
+                "y": 67
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimebasic_00009",
+            "frame": {
+                "w": 94,
+                "h": 64,
+                "x": 385,
+                "y": 67
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimebasic_00010",
+            "frame": {
+                "w": 94,
+                "h": 64,
+                "x": 1,
+                "y": 133
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimebasic_00011",
+            "frame": {
+                "w": 94,
+                "h": 64,
+                "x": 97,
+                "y": 133
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimebasic_00012",
+            "frame": {
+                "w": 94,
+                "h": 64,
+                "x": 193,
+                "y": 133
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimebasic_00013",
+            "frame": {
+                "w": 94,
+                "h": 64,
+                "x": 289,
+                "y": 133
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimebasic_00014",
+            "frame": {
+                "w": 94,
+                "h": 64,
+                "x": 385,
+                "y": 133
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimebasic_00015",
+            "frame": {
+                "w": 94,
+                "h": 64,
+                "x": 1,
+                "y": 199
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimebasic_00016",
+            "frame": {
+                "w": 94,
+                "h": 64,
+                "x": 97,
+                "y": 199
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimebasic_00017",
+            "frame": {
+                "w": 94,
+                "h": 64,
+                "x": 193,
+                "y": 199
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimebasic_00018",
+            "frame": {
+                "w": 94,
+                "h": 64,
+                "x": 289,
+                "y": 199
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimebasic_00019",
+            "frame": {
+                "w": 94,
+                "h": 64,
+                "x": 385,
+                "y": 199
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimebasic_00020",
+            "frame": {
+                "w": 94,
+                "h": 64,
+                "x": 1,
+                "y": 265
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimebasic_00021",
+            "frame": {
+                "w": 94,
+                "h": 64,
+                "x": 97,
+                "y": 265
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimebasic_00022",
+            "frame": {
+                "w": 94,
+                "h": 64,
+                "x": 193,
+                "y": 265
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimebasic_00023",
+            "frame": {
+                "w": 94,
+                "h": 64,
+                "x": 289,
+                "y": 265
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimebasic_00024",
+            "frame": {
+                "w": 94,
+                "h": 64,
+                "x": 385,
+                "y": 265
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimebasic_00025",
+            "frame": {
+                "w": 94,
+                "h": 64,
+                "x": 1,
+                "y": 331
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimebasic_00026",
+            "frame": {
+                "w": 94,
+                "h": 64,
+                "x": 97,
+                "y": 331
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimebasic_00027",
+            "frame": {
+                "w": 94,
+                "h": 64,
+                "x": 193,
+                "y": 331
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimebasic_00028",
+            "frame": {
+                "w": 94,
+                "h": 64,
+                "x": 289,
+                "y": 331
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "slimebasic_00029",
+            "frame": {
+                "w": 94,
+                "h": 64,
+                "x": 385,
+                "y": 331
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

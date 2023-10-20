@@ -1,0 +1,255 @@
+{
+    "frames": [
+        {
+            "filename": "wake1",
+            "frame": {
+                "w": 300,
+                "h": 360,
+                "x": 1,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "wake2",
+            "frame": {
+                "w": 300,
+                "h": 360,
+                "x": 303,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "wake3",
+            "frame": {
+                "w": 300,
+                "h": 360,
+                "x": 605,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "wake4",
+            "frame": {
+                "w": 300,
+                "h": 360,
+                "x": 907,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "wake5",
+            "frame": {
+                "w": 300,
+                "h": 360,
+                "x": 1209,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "wake6",
+            "frame": {
+                "w": 300,
+                "h": 360,
+                "x": 1511,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "wake7",
+            "frame": {
+                "w": 300,
+                "h": 360,
+                "x": 1813,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "wake8",
+            "frame": {
+                "w": 300,
+                "h": 360,
+                "x": 2115,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "wake9",
+            "frame": {
+                "w": 300,
+                "h": 360,
+                "x": 2417,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "wake10",
+            "frame": {
+                "w": 300,
+                "h": 360,
+                "x": 1,
+                "y": 363
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "wake11",
+            "frame": {
+                "w": 300,
+                "h": 360,
+                "x": 303,
+                "y": 363
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "wake12",
+            "frame": {
+                "w": 300,
+                "h": 360,
+                "x": 605,
+                "y": 363
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "wake13",
+            "frame": {
+                "w": 300,
+                "h": 360,
+                "x": 907,
+                "y": 363
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "wake14",
+            "frame": {
+                "w": 300,
+                "h": 360,
+                "x": 1209,
+                "y": 363
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "wake15",
+            "frame": {
+                "w": 300,
+                "h": 360,
+                "x": 1511,
+                "y": 363
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "wake16",
+            "frame": {
+                "w": 300,
+                "h": 360,
+                "x": 1813,
+                "y": 363
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "wake17",
+            "frame": {
+                "w": 300,
+                "h": 360,
+                "x": 2115,
+                "y": 363
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "wake18",
+            "frame": {
+                "w": 300,
+                "h": 360,
+                "x": 2417,
+                "y": 363
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "wake19",
+            "frame": {
+                "w": 300,
+                "h": 360,
+                "x": 1,
+                "y": 725
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

@@ -1,0 +1,242 @@
+{
+    "frames": [
+        {
+            "filename": "fly1",
+            "frame": {
+                "w": 600,
+                "h": 396,
+                "x": 1,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fly14",
+            "frame": {
+                "w": 600,
+                "h": 396,
+                "x": 603,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fly10",
+            "frame": {
+                "w": 600,
+                "h": 396,
+                "x": 1205,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fly4",
+            "frame": {
+                "w": 600,
+                "h": 396,
+                "x": 1807,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fly5",
+            "frame": {
+                "w": 600,
+                "h": 396,
+                "x": 2409,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fly9",
+            "frame": {
+                "w": 600,
+                "h": 396,
+                "x": 3011,
+                "y": 1
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fly11",
+            "frame": {
+                "w": 600,
+                "h": 396,
+                "x": 1,
+                "y": 399
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fly2",
+            "frame": {
+                "w": 600,
+                "h": 396,
+                "x": 603,
+                "y": 399
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fly12",
+            "frame": {
+                "w": 600,
+                "h": 396,
+                "x": 1205,
+                "y": 399
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fly3",
+            "frame": {
+                "w": 600,
+                "h": 396,
+                "x": 1807,
+                "y": 399
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fly15",
+            "frame": {
+                "w": 600,
+                "h": 396,
+                "x": 2409,
+                "y": 399
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fly6",
+            "frame": {
+                "w": 600,
+                "h": 396,
+                "x": 3011,
+                "y": 399
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fly7",
+            "frame": {
+                "w": 600,
+                "h": 396,
+                "x": 1,
+                "y": 797
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fly8",
+            "frame": {
+                "w": 600,
+                "h": 396,
+                "x": 603,
+                "y": 797
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fly13",
+            "frame": {
+                "w": 600,
+                "h": 396,
+                "x": 1205,
+                "y": 797
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fly17",
+            "frame": {
+                "w": 600,
+                "h": 396,
+                "x": 1807,
+                "y": 797
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fly18",
+            "frame": {
+                "w": 600,
+                "h": 396,
+                "x": 2409,
+                "y": 797
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "fly16",
+            "frame": {
+                "w": 600,
+                "h": 396,
+                "x": 3011,
+                "y": 797
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

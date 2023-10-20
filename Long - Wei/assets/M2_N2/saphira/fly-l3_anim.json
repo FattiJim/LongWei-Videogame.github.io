@@ -1,0 +1,68 @@
+{
+    "anims": [
+        {
+            "key": "fly-l3",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 9,
+            "frames": [
+                {
+                    "key": "fly-l3",
+                    "frame": "fly2"
+                },
+                {
+                    "key": "fly-l3",
+                    "frame": "fly3"
+                },
+                {
+                    "key": "fly-l3",
+                    "frame": "fly5"
+                },
+                {
+                    "key": "fly-l3",
+                    "frame": "fly6"
+                },
+                {
+                    "key": "fly-l3",
+                    "frame": "fly7"
+                },
+                {
+                    "key": "fly-l3",
+                    "frame": "fly8"
+                },
+                {
+                    "key": "fly-l3",
+                    "frame": "fly9"
+                },
+                {
+                    "key": "fly-l3",
+                    "frame": "fly10"
+                },
+                {
+                    "key": "fly-l3",
+                    "frame": "fly11"
+                },
+                {
+                    "key": "fly-l3",
+                    "frame": "fly12"
+                },
+                {
+                    "key": "fly-l3",
+                    "frame": "fly13"
+                },
+                {
+                    "key": "fly-l3",
+                    "frame": "fly14"
+                },
+                {
+                    "key": "fly-l3",
+                    "frame": "fly15"
+                },
+                {
+                    "key": "fly-l3",
+                    "frame": "fly16"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "anims": [
+        {
+            "key": "gold_back",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "gold_dragon",
+                    "frame": "tile000"
+                },
+                {
+                    "key": "gold_dragon",
+                    "frame": "tile001"
+                },
+                {
+                    "key": "gold_dragon",
+                    "frame": "tile002"
+                }
+            ]
+        },
+        {
+            "key": "gold_right",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "gold_dragon",
+                    "frame": "tile003"
+                },
+                {
+                    "key": "gold_dragon",
+                    "frame": "tile004"
+                },
+                {
+                    "key": "gold_dragon",
+                    "frame": "tile005"
+                }
+            ]
+        },
+        {
+            "key": "gold_left",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 10,
+            "frames": [
+                {
+                    "key": "gold_dragon",
+                    "frame": "tile009"
+                },
+                {
+                    "key": "gold_dragon",
+                    "frame": "tile010"
+                },
+                {
+                    "key": "gold_dragon",
+                    "frame": "tile011"
+                }
+            ]
+        },
+        {
+            "key": "gold_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 9,
+            "frames": [
+                {
+                    "key": "gold_dragon",
+                    "frame": "tile006"
+                },
+                {
+                    "key": "gold_dragon",
+                    "frame": "tile007"
+                },
+                {
+                    "key": "gold_dragon",
+                    "frame": "tile008"
+                }
+            ]
+        }
+    ]
+}

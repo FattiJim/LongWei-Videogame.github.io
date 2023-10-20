@@ -1,0 +1,132 @@
+{
+    "anims": [
+        {
+            "key": "slime1_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 25,
+            "frames": [
+                {
+                    "key": "slime_1",
+                    "frame": "slimebasic_00000"
+                },
+                {
+                    "key": "slime_1",
+                    "frame": "slimebasic_00001"
+                },
+                {
+                    "key": "slime_1",
+                    "frame": "slimebasic_00002"
+                },
+                {
+                    "key": "slime_1",
+                    "frame": "slimebasic_00003"
+                },
+                {
+                    "key": "slime_1",
+                    "frame": "slimebasic_00004"
+                },
+                {
+                    "key": "slime_1",
+                    "frame": "slimebasic_00005"
+                },
+                {
+                    "key": "slime_1",
+                    "frame": "slimebasic_00006"
+                },
+                {
+                    "key": "slime_1",
+                    "frame": "slimebasic_00007"
+                },
+                {
+                    "key": "slime_1",
+                    "frame": "slimebasic_00008"
+                },
+                {
+                    "key": "slime_1",
+                    "frame": "slimebasic_00009"
+                },
+                {
+                    "key": "slime_1",
+                    "frame": "slimebasic_00010"
+                },
+                {
+                    "key": "slime_1",
+                    "frame": "slimebasic_00011"
+                },
+                {
+                    "key": "slime_1",
+                    "frame": "slimebasic_00012"
+                },
+                {
+                    "key": "slime_1",
+                    "frame": "slimebasic_00013"
+                },
+                {
+                    "key": "slime_1",
+                    "frame": "slimebasic_00014"
+                },
+                {
+                    "key": "slime_1",
+                    "frame": "slimebasic_00015"
+                },
+                {
+                    "key": "slime_1",
+                    "frame": "slimebasic_00016"
+                },
+                {
+                    "key": "slime_1",
+                    "frame": "slimebasic_00017"
+                },
+                {
+                    "key": "slime_1",
+                    "frame": "slimebasic_00018"
+                },
+                {
+                    "key": "slime_1",
+                    "frame": "slimebasic_00019"
+                },
+                {
+                    "key": "slime_1",
+                    "frame": "slimebasic_00020"
+                },
+                {
+                    "key": "slime_1",
+                    "frame": "slimebasic_00021"
+                },
+                {
+                    "key": "slime_1",
+                    "frame": "slimebasic_00022"
+                },
+                {
+                    "key": "slime_1",
+                    "frame": "slimebasic_00023"
+                },
+                {
+                    "key": "slime_1",
+                    "frame": "slimebasic_00024"
+                },
+                {
+                    "key": "slime_1",
+                    "frame": "slimebasic_00025"
+                },
+                {
+                    "key": "slime_1",
+                    "frame": "slimebasic_00026"
+                },
+                {
+                    "key": "slime_1",
+                    "frame": "slimebasic_00027"
+                },
+                {
+                    "key": "slime_1",
+                    "frame": "slimebasic_00028"
+                },
+                {
+                    "key": "slime_1",
+                    "frame": "slimebasic_00029"
+                }
+            ]
+        }
+    ]
+}
